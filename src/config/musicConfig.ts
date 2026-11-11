@@ -47,13 +47,20 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	// lrc: "[00:00.00]歌词内容...",
 	local: {
 		playlist: [
+			// {
+			// 	name: "使一颗心免于哀伤",
+			// 	artist: "知更鸟 / HOYO-MiX / Chevy",
+			// 	url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
+			// 	cover: "/assets/music/cover/109951169585655912.webp",
+			// 	lrc: "",
+			// },
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
+				name: "天使にふれたよ! (相遇天使) (映画「けいおん!」Mix)",
+				artist: "放課後ティータイム",
+				url: "/assets/music/放課後ティータイム (放学后TEA TIME) - 天使にふれたよ! (相遇天使) (映画「けいおん!」Mix) [mqms2].ogg",
+				cover: "/assets/music/cover/image.png",
 				lrc: "",
-			},
+			}
 		],
 	},
 };
