@@ -2,7 +2,7 @@
 title: temp_share
 published: 2026-11-19
 description: '临时分享'
-image: ./images/azi.avif
+# image: ./images/azi.avif
 tags: [分享]
 category: ''
 draft: false
